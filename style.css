@@ -1,1 +1,15 @@
-html:5
+*{
+    margin:0 ;
+    padding: 0;
+}
+
+
+
+header{
+     background-color: aqua
+     color blue;
+}
+
+. foto {
+    width: 20% ;
+}
